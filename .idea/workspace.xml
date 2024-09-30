@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c51b383-4180-4076-8f7a-e5efe358bcd3" name="Changes" comment="Basic working Django project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
